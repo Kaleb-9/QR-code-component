@@ -36,7 +36,6 @@ body{
 .text p{
     color: hsl(220, 15%, 55%);
 }
-/* Youtube link */
 .link {
   position: fixed;
   background-color: #d12322;
